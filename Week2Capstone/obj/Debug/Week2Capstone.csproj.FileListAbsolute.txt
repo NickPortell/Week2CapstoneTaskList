@@ -1,0 +1,7 @@
+C:\GrandCircus\Documents\Capstones\Week2Capstone\Week2Capstone\bin\Debug\Week2Capstone.exe.config
+C:\GrandCircus\Documents\Capstones\Week2Capstone\Week2Capstone\bin\Debug\Week2Capstone.exe
+C:\GrandCircus\Documents\Capstones\Week2Capstone\Week2Capstone\bin\Debug\Week2Capstone.pdb
+C:\GrandCircus\Documents\Capstones\Week2Capstone\Week2Capstone\obj\Debug\Week2Capstone.csprojAssemblyReference.cache
+C:\GrandCircus\Documents\Capstones\Week2Capstone\Week2Capstone\obj\Debug\Week2Capstone.csproj.CoreCompileInputs.cache
+C:\GrandCircus\Documents\Capstones\Week2Capstone\Week2Capstone\obj\Debug\Week2Capstone.exe
+C:\GrandCircus\Documents\Capstones\Week2Capstone\Week2Capstone\obj\Debug\Week2Capstone.pdb
